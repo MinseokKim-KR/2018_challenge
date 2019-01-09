@@ -1,0 +1,5 @@
+
+TRAIN SIZE: 1000
+Validation error: 84.2%
+TRAIN SIZE: 5000
+Validation error: 64.5%
